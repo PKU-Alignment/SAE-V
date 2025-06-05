@@ -1,6 +1,6 @@
 <h1 align="center">(ICML 2025 Poster) SAE-V: Interpreting Multimodal Models for Enhanced Alignment   </h1>
 
-This repository contains the source code for our ICML 2025 paper [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org/abs/2502.17514).
+This repository contains the introduction and the link to the source code for our ICML 2025 paper [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org/abs/2502.17514).
 
 
 [Hantao Lou*](https://htlou.github.io/), [Changye Li*](https://antoinegg1.github.io/), [Jiaming Ji](https://jijiaming.com/) and [Yaodong Yang](https://www.yangyaodong.com/)
